@@ -12,7 +12,6 @@ import javax.swing.*;
 public class RunnerClient {
 
     public static void main(String[] args) {
-        //JFrame view = new ScoreView("Toi : 0 (tro null)");
     	WelcomeView wv = new WelcomeView();
     }
 
