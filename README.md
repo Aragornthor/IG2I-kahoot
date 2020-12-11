@@ -18,3 +18,18 @@ Le sujet est disponible ici : https://docs.google.com/document/d/1P6NtqBesxODszS
 > Main class : server.controllers.Main
 >
 > Argument de lancement : mot de passe de la base de données
+>
+
+### Lancer les clients
+
+> Main class : client.RunnerClient
+>
+> Argument de lancement : aucun
+>
+> ATTENTION : cocher "Allow parallel run" (IntelliJ)
+
+### Lancer l'importation des JSON sur la DB
+
+> Main class : database.controllers.Main
+>
+> Argument de lancement : mot de passe de la base de données
