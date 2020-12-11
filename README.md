@@ -12,3 +12,9 @@ Le sujet est disponible ici : https://docs.google.com/document/d/1P6NtqBesxODszS
 ### Récupérer le projet
 
 > git clone https://github.com/Aragornthor/IG2I-kahoot-rework
+
+### Lancer le serveur
+
+> Main class : server.controllers.Main
+>
+> Argument de lancement : mot de passe de la base de données
